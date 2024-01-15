@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/DanielPC/Documents/calculadora"
+		},
+		{
+			"path": "../Calculadora de Precios"
+		},
+		{
+			"path": "C:/Users/DanielPC/Documents/calculadora/IMC"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Calculadora de Precios"
+	}
+}
